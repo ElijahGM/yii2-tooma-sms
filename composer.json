@@ -22,12 +22,15 @@
 "yiisoft/yii2": "^2.0.0"
 },
 "autoload": {
-"psr-4": {
-"tooma\\yii2\\api\\": "src/"
-}
+	"psr-4": {
+
+	"tooma\\yii2\\api\\": "src/"
+	}
 },
 "extra": {
-    "bootstrap": "tooma\\yii2\\api\\Bootstrap",    
+    "bootstrap": "tooma\\yii2\\api\\Bootstrap"  
+
+
 },
 "minimum-stability": "stable"
 }
