@@ -19,15 +19,15 @@
 ],
 "require": {
 "tooma/sms-api": "*",
-"yiisoft/yii2": "^2.0.0",
+"yiisoft/yii2": "^2.0.0"
 },
 "autoload": {
 "psr-4": {
-"tooma\\api": "src/"
+"tooma\\yii2\\api\\": "src/"
 }
 },
 "extra": {
-    "bootstrap": "tooma\\api\\Bootstrap",    
+    "bootstrap": "tooma\\yii2\\api\\Bootstrap",    
 },
 "minimum-stability": "stable"
 }

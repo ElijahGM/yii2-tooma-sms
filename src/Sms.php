@@ -1,5 +1,5 @@
 <?php
-namespace tooma\api;
+namespace tooma\yii2\api;
 use Yii;
 use yii\base\Component;
 use tooma/sms-api/
